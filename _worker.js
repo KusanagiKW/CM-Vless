@@ -29,7 +29,7 @@ let fakeUserID ;
 let fakeHostName ;
 let noTLS = 'false'; 
 const expire = 4102329600;//2099-12-31
-let proxyIPs ='';
+let proxyIPs;
 let addresses = [];
 let addressesapi = [];
 let addressesnotls = [];
